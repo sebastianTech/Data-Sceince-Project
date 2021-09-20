@@ -4,15 +4,12 @@ he Objectives of CRISP-DM is to understand from a business perspective, what the
 
 Phase 1 : Business Understanding.
 
-
 The business context of our data set is to describe and advise on the best option that
 
 ● Gives the vintner the understand behind the science of wine making and align their product to meet consumer’s needs and wants.
 ● Presents insights into which areas vintner should focus their attention
 ● Gives the vintner a hint on consumer’s likelihood, preference and willingness to purchase wine with a specific physico-chemical mixture.
 ● Will give an edge to the producers over other competitors.
-
-
 
 Two public datasets that are concerned with the quality of wine are known as “Red and White” from wine samples. Our focus in this project is the Red sample variants from Portugal’s “Vinho Verde” wine and we will be using the python language system for the formulation of this project. The data set has an input (PH value) and output (grading) formulated by experts by assigning the quality values ranging from 3 to 8, where three means terrible, and eight means excellent. There are 1599 observations and 12 attributes. During the per-processing stage, we will discuss the correlation observed with the attributes and apply feature selection. Input variables based on the physico-chemical test in the datasets are
 
