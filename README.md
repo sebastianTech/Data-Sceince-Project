@@ -3,7 +3,6 @@ Wine Quality (Red) Data Mining Dymistify
 he Objectives of CRISP-DM is to understand from a business perspective, what the client really intend to accomplish which is the business goals,availability of resources,the underlying constraints and translate these goals and restrictions into a data mining problem definition. CRISP-DM provides a preliminary plan to achieve the data mining goals and the business goals. The output will have the following:
 
 Phase 1 : Business Understanding.
-
 The business context of our data set is to describe and advise on the best option that
 
 ● Gives the vintner the understand behind the science of wine making and align their product to meet consumer’s needs and wants.
