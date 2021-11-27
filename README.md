@@ -6,7 +6,6 @@ he Objectives of CRISP-DM is to understand from a business perspective, what the
 Phase 1 : Business Understanding.
 The business context of our data set is to describe and advise on the best option that
 
-
 ● Gives the vintner the understand behind the science of wine making and align their product to meet consumer’s needs and wants.
 ● Presents insights into which areas vintner should focus their attention
 ● Gives the vintner a hint on consumer’s likelihood, preference and willingness to purchase wine with a specific physico-chemical mixture.
